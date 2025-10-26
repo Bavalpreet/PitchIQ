@@ -1,4 +1,4 @@
-# VISION/tools/videoAnalyzer.py
+# PitchIQ/tools/videoAnalyzer.py
 from google.adk.tools.tool_context import ToolContext
 from typing import Dict, Any, Optional, List
 import os

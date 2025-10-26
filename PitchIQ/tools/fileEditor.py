@@ -1,4 +1,4 @@
-# VISION/tools/fileEditor.py
+# PitchIQ/tools/fileEditor.py
 from google.adk.tools.tool_context import ToolContext
 from typing import Dict, Any, Optional, List
 import os
@@ -10,7 +10,7 @@ File Editor Tool for ADK Agent
 Provides read/write access to local repository files.
 """
 
-# Get the repository root (parent of VISION folder)
+# Get the repository root (parent of PitchIQ folder)
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 def _is_safe_path(file_path: str) -> tuple[bool, str]:

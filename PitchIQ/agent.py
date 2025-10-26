@@ -19,6 +19,10 @@ from .tools.videoAnalyzer import (
     # analyze_video_visuals_only,
     analyze_video_with_custom_prompt
 )
+from .tools.presentationEvaluator import (
+    evaluate_presentation,
+    evaluate_presentation_quick
+)
 from dotenv import load_dotenv
 # import asyncio
 import os
@@ -45,6 +49,9 @@ root_agent = LlmAgent(
         # analyze_video,
         # analyze_video_transcript_only,
         # analyze_video_visuals_only,
-        analyze_video_with_custom_prompt
+        analyze_video_with_custom_prompt,
+        # Presentation Evaluator Tools
+        evaluate_presentation,
+        evaluate_presentation_quick
     ]
 )
