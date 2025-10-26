@@ -4,14 +4,7 @@
 
 > **Powered by Google Gemini AI** - Analyze videos, evaluate presentations, and get actionable feedback with AI-driven insights.
 
-### 🏆 Hackathon Achievement
-
-This project was developed for the **Google Cloud x AI Tinkerers Toronto Hackathon - September 2025**
-
-- 🥈 **Runner Up**
-- 🎉 **Crowd Favorite**
-
-### About the Project
+### About PitchIQ
 
 PitchIQ is a next-generation intelligent video analysis and presentation evaluation platform that leverages Google Gemini AI to provide comprehensive insights from YouTube videos. Whether you're analyzing content, evaluating presentations, or scoring pitches, PitchIQ delivers actionable feedback powered by advanced multimodal AI. The system provides:
 
@@ -23,13 +16,15 @@ PitchIQ is a next-generation intelligent video analysis and presentation evaluat
 
 ### Features
 
-- 📹 YouTube video analysis with custom prompts
-- 🎤 **NEW: Presentation evaluation with scoring out of 15 points**
-- 📊 **Visual score meters and detailed feedback**
-- 🔍 Visual and audio content extraction
-- 📝 Automated transcript generation
-- 🗂️ Intelligent file organization
-- 🤖 Powered by Google Cloud AI Platform and Gemini models
+- 🎤 **AI-Powered Presentation Evaluation** - Score presentations out of 15 points with detailed feedback
+- 📊 **Visual Score Meters** - Intuitive progress bars and color-coded performance indicators
+- 📹 **YouTube Video Analysis** - Analyze any YouTube video with custom prompts
+- 🔍 **Multimodal Content Extraction** - Visual and audio content understanding
+- 📝 **Automated Transcript Generation** - Extract complete transcripts from videos
+- 📄 **Detailed Feedback Reports** - Strengths, improvements, and actionable recommendations
+- 🎯 **5-Criteria Scoring System** - Clarity, Structure, Delivery, Content, and Visuals
+- 🗂️ **Smart File Organization** - Automatically organized project outputs
+- 🤖 **Powered by Google Gemini 2.0** - Advanced multimodal AI capabilities
 
 ---
 
@@ -88,13 +83,14 @@ PitchIQ/
     └── prompts/          # AI prompt templates
 ```
 
-## New Feature: Presentation Evaluation 🎤
+## Presentation Evaluation 🎤
 
-PitchIQ now includes an advanced **Presentation Evaluator** that:
-- Scores presentations out of **15 points** across 5 criteria
-- Provides detailed feedback on clarity, structure, delivery, content, and visuals
-- Displays results with intuitive **visual score meters**
-- Perfect for hackathon submissions, pitches, and educational content
+PitchIQ's advanced **AI-Powered Presentation Evaluator** provides:
+- **15-Point Scoring System** across 5 comprehensive criteria
+- **Detailed Feedback** on clarity, structure, delivery, content, and visuals
+- **Visual Score Meters** with color-coded performance indicators
+- **Actionable Recommendations** for improvement
+- Perfect for **hackathon pitches**, **sales presentations**, **conference talks**, and **educational content**
 
 [📖 Read Full Documentation](PRESENTATION_EVALUATION.md)
 
