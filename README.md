@@ -100,10 +100,3 @@ PitchIQ now includes an advanced **Presentation Evaluator** that:
 
 ---
 
-## Hackathon Submission Video
-
-Watch our demo submission for the Google Cloud x AI Tinkerers Toronto Hackathon:
-
-[PitchIQ Hackathon Demo](https://discord.com/channels/1422593787657457826/1422594516799586477/1422693973885194270)
-
----
